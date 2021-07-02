@@ -1,0 +1,40 @@
+<svg viewBox="0 0 150 300" xmlns="http://www.w3.org/2000/svg">
+<rect x="55.0" opacity="100" y="35" fill="#C15A5B" width="10.0" height="115.0" transform="rotate(0 60 35)"/>
+<rect x="55.0" opacity="100" y="150.0" fill="#9DABC5" width="10.0" height="15.0" transform="rotate(-60 60 150.0)"/>
+<rect x="55.0" opacity="100" y="150.0" fill="#81BED0" width="10.0" height="15.0" transform="rotate(60 60 150.0)"/>
+<rect x="67.9903810568" opacity="100" y="157.5" fill="#AAD1B6" width="10.0" height="15.0" transform="rotate(-30.0 72.9903810568 157.5)"/>
+<rect x="67.9903810568" opacity="100" y="157.5" fill="#6AAB73" width="10.0" height="15.0" transform="rotate(30.0 72.9903810568 157.5)"/>
+<rect x="42.0096189432" opacity="100" y="157.5" fill="#E7E689" width="10.0" height="15.0" transform="rotate(-30.0 47.0096189432 157.5)"/>
+<rect x="75.4903810568" opacity="100" y="170.490381057" fill="#D89560" width="10.0" height="61.0" transform="rotate(-30.0 80.4903810568 170.490381057)"/>
+<rect x="60.4903810568" opacity="100" y="170.490381057" fill="#85593E" width="10.0" height="139.0" transform="rotate(-30.0 65.4903810568 170.490381057)"/>
+<rect x="49.5096189432" opacity="100" y="170.490381057" fill="#C55E7B" width="10.0" height="27.0" transform="rotate(-30.0 54.5096189432 170.490381057)"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="60 " cy="35" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="60 " cy="150.0" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="72.9903810568 " cy="157.5" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="47.0096189432 " cy="157.5" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="80.4903810568 " cy="170.490381057" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="65.4903810568 " cy="170.490381057" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="54.5096189432 " cy="170.490381057" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="110.990381057 " cy="223.317930688" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="134.990381057 " cy="290.867912183" r="5.0"/>
+<circle fill="#C4C4C4" stroke="#000000" stroke-width="0" stroke-miterlimit="10" cx="68.0096189432 " cy="193.873066959" r="5.0"/>
+<text x="60" y="20" text-anchor='middle' font-family="'ArialMT'" font-size="">filter_gse149180</text>
+<text text-anchor='middle' ><tspan x="60" y="153.0" font-family="'ArialMT'" font-size="8">A</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="72.9903810568" y="160.5" font-family="'ArialMT'" font-size="8">B</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="47.0096189432" y="160.5" font-family="'ArialMT'" font-size="8">G</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="80.4903810568" y="173.490381057" font-family="'ArialMT'" font-size="8">C</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="65.4903810568" y="173.490381057" font-family="'ArialMT'" font-size="8">E</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="54.5096189432" y="173.490381057" font-family="'ArialMT'" font-size="8">H</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="110.990381057" y="226.317930688" font-family="'ArialMT'" font-size="8">D</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="134.990381057" y="293.867912183" font-family="'ArialMT'" font-size="8">F</tspan>
+</text>
+<text text-anchor='middle' ><tspan x="68.0096189432" y="196.873066959" font-family="'ArialMT'" font-size="8">I</tspan>
+</text>
+</svg>
